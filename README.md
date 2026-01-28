@@ -116,6 +116,11 @@ Quality of Generated Distribution:
 - Matplotlib  
 
 ---
+
+## Plot
+![image alt](https://github.com/pulkitsriv30/assign_2/blob/main/download.png)
+
+---
 ## Colab Link 
 https://colab.research.google.com/drive/1lCwoMvy9hgJ5Mev-g1FwHHGeuekJ4CYp?usp=sharing
 
