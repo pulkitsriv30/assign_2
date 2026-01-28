@@ -124,5 +124,7 @@ Quality of Generated Distribution:
 ## Colab Link 
 https://colab.research.google.com/drive/1lCwoMvy9hgJ5Mev-g1FwHHGeuekJ4CYp?usp=sharing
 
+---
+
 ## Conclusion
 This assignment demonstrates that a Generative Adversarial Network can successfully learn an unknown probability density function using only sample data, without assuming any analytical distribution. Proper regularization of the discriminator plays a crucial role in achieving stable and meaningful results.
